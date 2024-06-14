@@ -9,7 +9,8 @@ Welcome to the GothRun! GothRun is a hypercasual mobile game developed by myself
 4. [Boss Fight](#boss-fight)
 5. [Installation](#installation)
 6. [Building the Project](#building-the-project)
-7. [License](#license)
+7. [Screenshots](#screenshots)
+8. [License](#license)
 
 ## Game Overview
 
@@ -58,7 +59,7 @@ To build the project from source:
 
 1. Clone the repository to your local machine.
     ```bash
-    git clone https://github.com/yourusername/gothrun-mobile-hypercasual-game.git
+    git clone https://github.com/200202087/gothrun-mobile-hypercasual-game.git
     ```
 2. Open the project in Unity.
 3. Ensure you have the correct build settings for your target platform (Android).
@@ -79,7 +80,7 @@ To build the project from source:
 
 <img src="Screenshots/Screenshot_3.jpg" width="300" />
 
-**we flex to the boss with the simps we collect ^^**
+**We flex to the boss with the simps we collect ^^**
 
 <img src="Screenshots/Screenshot_4.jpg" width="300" />
 
