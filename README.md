@@ -1,6 +1,8 @@
 # GothRun Mobile Hypercasual Game
 
-Welcome to the GothRun! GothRun is a hypercasual mobile game developed by myself. I improved my C#, Object Oriented Programming and Unity knowledge with this game. This README file provides detailed information about the game, including gameplay mechanics, level design, and instructions for building and running the project. The game is developed using Unity and the repository includes both the Unity project files and the APK for installation.
+Welcome to the GothRun! GothRun is a hypercasual mobile game developed by myself. I improved my C#, Object Oriented Programming and Unity knowledge with this game. 
+
+This README file provides detailed information about the game, including gameplay mechanics, level design, and instructions for building and running the project. The game is developed using Unity and the repository includes both the Unity project files and the APK for installation.
 
 ## Table of Contents
 1. [Game Overview](#game-overview)
