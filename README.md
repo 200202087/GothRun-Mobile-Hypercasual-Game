@@ -94,4 +94,4 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 ---
 
-Thank you for playing GothRun Hypercasual Game!
+Thank you for playing GothRun!
