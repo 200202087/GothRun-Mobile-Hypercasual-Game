@@ -69,23 +69,23 @@ To build the project from source:
 
 **First Level**
 
-![Screenshot 1](Screenshots/Screenshot_1.png)
+![Screenshot 1](Screenshots/Screenshot_1.jpg)
 
 **Second Level**
 
-![Screenshot 2](Screenshots/Screenshot_2.png)
+![Screenshot 2](Screenshots/Screenshot_2.jpg)
 
 **Third Level**
 
-![Screenshot 3](Screenshots/Screenshot_3.png)
+![Screenshot 3](Screenshots/Screenshot_3.jpg)
 
 **we flex to the boss with the simps we collect ^^**
 
-![Screenshot 4](Screenshots/Screenshot_4.png)
+![Screenshot 4](Screenshots/Screenshot_4.jpg)
 
 **Our simps attacking the boss for us!**
 
-![Screenshot 5](Screenshots/Screenshot_5.png)
+![Screenshot 5](Screenshots/Screenshot_5.jpg)
 
 ## License
 
