@@ -69,7 +69,7 @@ To build the project from source:
 
 **First Level**
 
-![Screenshot 1](Screenshots/Screenshot_1.jpg)
+<img src="Screenshots/Screenshot_1.jpg" width="300" />
 
 **Second Level**
 
